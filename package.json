@@ -1,0 +1,18 @@
+{
+  "name": "astrobackend",
+  "version": "1.0.0",
+  "description": "backend for astro application for sunshine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sriram",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.7",
+    "path": "^0.12.7"
+  }
+}
